@@ -3,3 +3,4 @@
 *.elf
 example
 os-image
+.DS_Store
